@@ -40,7 +40,3 @@ The chi-square test determines if an observed frequency distribution of a catego
 
 ---
 
-## Test Statistic & Formula
-
-The chi-square statistic is
-
